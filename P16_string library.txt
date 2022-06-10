@@ -3,11 +3,11 @@
 #include<string.h>
 int main()
 {
-    char arr[]="sayali";
+    char arr[]="Ashwini";
     int len1 = strlen (arr);
     printf ("string =%s length = %d\n",arr,len1);
     return 0;
 }
 
 
-OUTPUT:string =sayali length = 6
+OUTPUT:string =Ashwini length = 7
